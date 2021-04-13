@@ -1,7 +1,7 @@
 {
     "flags": "-iE",
      "patterns": [
-
+         "=",
          "id=",
         "select=",
         "report=",
