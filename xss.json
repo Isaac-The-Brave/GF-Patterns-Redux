@@ -1,6 +1,7 @@
 {
      "flags": "-iE", 
      "patterns": [
+"=",
 "q=",
 "s=",
 "search=",
